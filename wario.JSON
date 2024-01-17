@@ -9,7 +9,7 @@
   ],
   "background": {
     "url": "https://cdn.discordapp.com/attachments/1015931590741872712/1197222886142906368/Screenshot_20240117_165553.jpg?ex=65ba7bb3&is=65a806b3&hm=2b0f4f7b7c8d669c425cd8e96e10f312f1a18f89a4a99a8fd6c35294a196031d&",
-    "alpha":  0.5
+    "alpha":  0.4
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
@@ -134,29 +134,32 @@
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#6b1ac9"
+    ],
+    "REDESIGN_ONLY_BACKGROUND_DEFAULT": [
+      "https://cdn.discordapp.com/attachments/1015931590741872712/1197222886142906368/Screenshot_20240117_165553.jpg?ex=65ba7bb3&is=65a806b3&hm=2b0f4f7b7c8d669c425cd8e96e10f312f1a18f89a4a99a8fd6c35294a196031d&"
     ]
   },
-  "rawColors": {
-    "PRIMARY_500": "#6b1ac9",
-    "PRIMARY_100": "#6b1ac9",
-    "PRIMARY_200": "#6b1ac9",
-    "PRIMARY_300": "#6b1ac9",
-    "PRIMARY_360": "#6b1ac9",
-    "PRIMARY_400": "#6b1ac9",
-    "PRIMARY_600": "#6b1ac9",
-    "PRIMARY_630": "#6b1ac9",
-    "PRIMARY_660": "#6b1ac9",
-    "PRIMARY_700": "#6b1ac9",
-    "PRIMARY_800": "#6b1ac9",
-    "BRAND_260": "#6b1ac9",
-    "BRAND_360": "#6b1ac9",
-    "BRAND_500": "#6b1ac9",
-    "BRAND_560": "#6b1ac9",
-    "YELLOW_300": "#6b1ac9",
-    "GREEN_600": "#6b1ac9",
-    "RED_400": "#6b1ac9",
-    "WHITE_500": "#6b1ac9",
-    "GREEN_360": "#6b1ac9"
-  },
-  "spec": 2
-}
+    "rawColors": {
+      "PRIMARY_500": "#6b1ac9",
+      "PRIMARY_100": "#6b1ac9",
+      "PRIMARY_200": "#6b1ac9",
+      "PRIMARY_300": "#6b1ac9",
+      "PRIMARY_360": "#6b1ac9",
+      "PRIMARY_400": "#6b1ac9",
+      "PRIMARY_600": "#6b1ac9",
+      "PRIMARY_630": "#6b1ac9",
+      "PRIMARY_660": "#6b1ac9",
+      "PRIMARY_700": "#6b1ac9",
+      "PRIMARY_800": "#6b1ac9",
+      "BRAND_260": "#6b1ac9",
+      "BRAND_360": "#6b1ac9",
+      "BRAND_500": "#6b1ac9",
+      "BRAND_560": "#6b1ac9",
+      "YELLOW_300": "#6b1ac9",
+      "GREEN_600": "#6b1ac9",
+      "RED_400": "#6b1ac9",
+      "WHITE_500": "#6b1ac9",
+      "GREEN_360": "#6b1ac9"
+    },
+    "spec": 2
+  }
