@@ -1,0 +1,90 @@
+{
+  "name": "WARIO",
+  "description": "WARIO THEME",
+  "authors": [
+    {
+      "name": "jenku",
+      "id": "323205750262595595"
+    }
+  ],
+  "background" {
+    "url": "https://cdn.discordapp.com/attachments/1015931590741872712/1197222886142906368/Screenshot_20240117_165553.jpg?ex=65ba7bb3&is=65a806b3&hm=2b0f4f7b7c8d669c425cd8e96e10f312f1a18f89a4a99a8fd6c35294a196031d&",
+    "alpha":  0.5
+  },
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#dfa74e"
+    ],
+    "HEADER_SECONDARY": [
+      "#dfa74e"
+    ],
+    "TEXT_NORMAL": [
+      "#f4f0df"
+    ],
+    "TEXT_MUTED": [
+      "#e6e4db"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#eead61"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#f2cd25"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ad4def"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#eee0b4"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#937a15"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#937a15"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#937a15"
+    ]
+    "CHANNELS_DEFAULT": [
+      "#ecd684"
+    ],
+    "TEXT_LINK": [
+      "#b978ea"
+    ],
+    "TEXT_DANGER": [
+      "#881dd9"
+    ],
+    "KEYBOARD": [
+      "#881dd9"
+    ],
+    "CHANNEL_ICON": [
+      "#881dd9"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#efc749",
+    "PRIMARY_100": "#f9f4a4",
+    "PRIMARY_200": "#fbf4c1",
+    "PRIMARY_300": "#efc749",
+    "PRIMARY_360": "#efc749",
+    "PRIMARY_400": "#efc749",
+    "PRIMARY_600": "#403603",
+    "PRIMARY_630": "#4c0e79",
+    "PRIMARY_660": "#4c0e79",
+    "PRIMARY_700": "#403603",
+    "PRIMARY_800": "#403603",
+    "BRAND_260": "#b7ad4a",
+    "BRAND_360": "#9769c7",
+    "BRAND_500": "#b7ad4a",
+    "BRAND_560": "#9769c7",
+    "YELLOW_300": "#b7ad4a",
+    "GREEN_600": "#f9f4a4",
+    "RED_400": "#efc749",
+    "WHITE_500": "#f9f4a4",
+    "GREEN_360": "#4424a1"
+  },
+  "spec": 2
+}
