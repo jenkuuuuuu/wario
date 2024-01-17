@@ -84,6 +84,9 @@
     "BACKGROUND_MOBILE_SECONDARY": [
       "#f2bd05"
     ],
+    "BACKGROUND_MOBILE_TERTIARY": [
+      "#f2bd05"
+    ],
     "BACKGROUND_NESTED_FLOATING": [
       "#f2bd05"
     ],
