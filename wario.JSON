@@ -61,52 +61,49 @@
       "#881dd9"
     ],
     "BACKGROUND_PRIMARY": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "BACKGROUND_SECONDARY": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "BACKGROUND_TERTIARY": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "BACKGROUND_ACCENT": [
       "#7c20f7"
     ],
     "BACKGROUND_FLOATING": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "BACKGROUND_MENTIONED": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#7c20f7"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#e4c10e"
+      "#f0bd0c"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
       "transparent"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#7c20f7"
     ],
     "BG_BASE_PRIMARY": [
       "#d8c00e"
@@ -135,9 +132,15 @@
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#6b1ac9"
     ],
-    "REDESIGN_ONLY_BACKGROUND_DEFAULT": [
-      "https://cdn.discordapp.com/attachments/1015931590741872712/1197222886142906368/Screenshot_20240117_165553.jpg?ex=65ba7bb3&is=65a806b3&hm=2b0f4f7b7c8d669c425cd8e96e10f312f1a18f89a4a99a8fd6c35294a196031d&"
-    ]
+    "REDESIGN_ONLY_BACKGROUND_DEFAULT": {
+      "url": "https://cdn.discordapp.com/attachments/1015931590741872712/1197222886142906368/Screenshot_20240117_165553.jpg?ex=65ba7bb3&is=65a806b3&hm=2b0f4f7b7c8d669c425cd8e96e10f312f1a18f89a4a99a8fd6c35294a196031d&"
+    },
+    "CHANNELS_DEFAULT": {
+      "url": "https://cdn.discordapp.com/attachments/1015931590741872712/1197222886142906368/Screenshot_20240117_165553.jpg?ex=65ba7bb3&is=65a806b3&hm=2b0f4f7b7c8d669c425cd8e96e10f312f1a18f89a4a99a8fd6c35294a196031d&"
+    },
+    "CHANNELTEXTAREA_BACKGROUND": {
+      "url": "https://cdn.discordapp.com/attachments/1015931590741872712/1197222886142906368/Screenshot_20240117_165553.jpg?ex=65ba7bb3&is=65a806b3&hm=2b0f4f7b7c8d669c425cd8e96e10f312f1a18f89a4a99a8fd6c35294a196031d&"
+    }
   },
     "rawColors": {
       "PRIMARY_500": "#6b1ac9",
