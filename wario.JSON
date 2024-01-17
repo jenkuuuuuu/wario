@@ -48,9 +48,6 @@
     "SCROLLBAR_AUTO_TRACK": [
       "#937a15"
     ],
-    "CHANNELS_DEFAULT": [
-      "#ecd684"
-    ],
     "TEXT_LINK": [
       "#b978ea"
     ],
@@ -107,6 +104,9 @@
     ],
     "SPOILER_REVEALED_BACKGROUND": [
       "transparent"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#7c20f7"
     ]
   },
   "rawColors": {
