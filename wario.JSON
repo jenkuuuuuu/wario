@@ -7,7 +7,7 @@
       "id": "323205750262595595"
     }
   ],
-  "background" {
+  "background": {
     "url": "https://cdn.discordapp.com/attachments/1015931590741872712/1197222886142906368/Screenshot_20240117_165553.jpg?ex=65ba7bb3&is=65a806b3&hm=2b0f4f7b7c8d669c425cd8e96e10f312f1a18f89a4a99a8fd6c35294a196031d&",
     "alpha":  0.5
   },
@@ -47,7 +47,7 @@
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "#937a15"
-    ]
+    ],
     "CHANNELS_DEFAULT": [
       "#ecd684"
     ],
