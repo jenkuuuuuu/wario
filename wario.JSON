@@ -62,6 +62,51 @@
     ],
     "CHANNEL_ICON": [
       "#881dd9"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#e4c10e"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#e4c10e"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#e4c10e"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#e4c10e"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#7c20f7"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#e4c10e"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#e4c10e"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#e4c10e"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#e4c10e"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#e4c10e"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#e4c10e"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#7c20f7"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#e4c10e"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#e4c10e"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "transparent"
     ]
   },
   "rawColors": {
