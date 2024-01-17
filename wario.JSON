@@ -19,10 +19,10 @@
       "#dfa74e"
     ],
     "TEXT_NORMAL": [
-      "#f4f0df"
+      "#d7b8f4"
     ],
     "TEXT_MUTED": [
-      "#e6e4db"
+      "#bda3d6"
     ],
     "INTERACTIVE_NORMAL": [
       "#bb61ee"
@@ -49,10 +49,10 @@
       "#791593"
     ],
     "TEXT_LINK": [
-      "#b978ea"
+      "#9028de"
     ],
     "TEXT_DANGER": [
-      "#881dd9"
+      "#9028de"
     ],
     "KEYBOARD": [
       "#881dd9"
@@ -115,7 +115,7 @@
       "#6e36e0"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#c4a7e7"
+      "#a158da"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#28055a"
