@@ -25,7 +25,7 @@
       "#e6e4db"
     ],
     "INTERACTIVE_NORMAL": [
-      "#c361ee"
+      "#bb61ee"
     ],
     "INTERACTIVE_HOVER": [
       "#aa57e4"
@@ -122,6 +122,18 @@
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#28055a"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#290e5a"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#290e5a"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#290e5a"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#6b1ac9"
     ]
   },
   "rawColors": {
